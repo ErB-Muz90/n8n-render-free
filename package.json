@@ -2,7 +2,7 @@
   "name": "n8n-render",
   "version": "1.0.0",
   "scripts": {
-    "start": "n8n"
+    "start": "npx n8n"
   },
   "dependencies": {
     "n8n": "^1.99.1"
