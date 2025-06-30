@@ -4,12 +4,11 @@
   "scripts": {
     "start": "npx n8n"
   },
+  "engines": {
+    "node": ">=20.19.0 <=24.x"
+  },
   "dependencies": {
     "n8n": "^1.99.1"
   }
 }
-{
-  "engines": {
-    "node": ">=20.19 <=24.x"
-  }
-}
+
